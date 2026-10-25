@@ -1,7 +1,7 @@
 {
     "name": "laravel/laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Laravel 11 blog CMS with admin and writer panels, policies, gates and queued newsletters.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
