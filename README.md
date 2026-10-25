@@ -6,6 +6,20 @@ A full-stack blog platform built with **Laravel 11** and a full control panel, w
 ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?logo=php&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
+## Screenshots
+
+Captured from the running application with the seeded demo data (Faker; posts use placeholder images).
+
+**Blog front end**
+
+![Blog home](screenshots/blog-home.png)
+
+| Admin dashboard | Posts |
+|---|---|
+| ![Admin dashboard](screenshots/admin-dashboard.png) | ![Admin posts](screenshots/admin-posts.png) |
+
+![Admin users and roles](screenshots/admin-users.png)
+
 ## Features
 
 - **Admin panel**: edit general blog information; create, update and delete categories, posts, tags and custom pages; manage roles
