@@ -1,6 +1,6 @@
 # Laravel Blog CMS
 
-A blog platform built with **Laravel 11** and a full control panel, with role-based access for admins and writers.
+A full-stack blog platform built with **Laravel 11** and a full control panel, with role-based access for admins and writers.
 
 ![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?logo=php&logoColor=white)
